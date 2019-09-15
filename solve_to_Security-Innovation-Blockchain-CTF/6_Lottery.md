@@ -18,4 +18,4 @@ function play(uint256 _seed) external payable ctf{
 ```    
 ## 성공
 
-![myetherwallet_access-my-wallet](img/mew_access-my-wallet.png)
+![success](img/success_6.png)
