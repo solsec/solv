@@ -1,4 +1,4 @@
-LOTTRERY
+LOTTERY
 ==
 ```solidity
 function play(uint256 _seed) external payable ctf{
