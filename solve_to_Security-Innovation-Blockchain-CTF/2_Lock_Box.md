@@ -32,7 +32,7 @@ timestamp 1569119557
 
 <img src="img/process_2_1.png" width="600px" height="200px">
 
-##결과
+## 결과
 
 <img src="img/success_2.png" width="500px" height="200px">
 
