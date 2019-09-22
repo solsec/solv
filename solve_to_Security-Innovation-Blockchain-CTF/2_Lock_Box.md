@@ -29,8 +29,9 @@ block 6434494
 1569119557 % 10000 = 9557
 ```
 
-<img src="img/process_2_1.png" width="200px" height="100px">
+<img src="img/process_2_1.png" width="600px" height="200px">
 
 ##결과
 
-![success](img/success_2.png)
+<img src="img/success_2.png" width="500px" height="200px">
+
