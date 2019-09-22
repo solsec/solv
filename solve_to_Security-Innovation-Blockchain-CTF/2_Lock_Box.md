@@ -28,8 +28,8 @@ contract Lockbox1 is CtfFramework{
 block 6434494
 1569119557 % 10000 = 9557
 ```
- ![process](img/process_2_1.png){: width="100" height="100"}
-<img src="img/process_2_1.png" width="100" height="100">
+
+<img src="img/process_2_1.png" width="200px" height="100px">
 
 ##결과
 
