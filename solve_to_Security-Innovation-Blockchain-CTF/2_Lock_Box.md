@@ -26,6 +26,7 @@ contract Lockbox1 is CtfFramework{
 ## 과정
 ```
 block 6434494
+timestamp 1569119557
 1569119557 % 10000 = 9557
 ```
 
