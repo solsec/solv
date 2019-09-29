@@ -1,7 +1,5 @@
 # Piggy_Bank
 
-==
-
 ```solidity
 pragma solidity 0.4.24;
 
@@ -73,5 +71,6 @@ contract CharliesPiggyBank is PiggyBank{
 ```
  MyetherWallet에서 MetaMask를 연동한 후, 위 문제의 SmartContract 주소와 ABI를 입력한 후,
  collectFunds 함수를 호출하면 문제가 풀리게 된다.
+
  Override로 인해 원래 함수가 덮어써지게 되어 Owner가 아니라고 해당 함수를 호출할 수 있게 되었다.
 ```
