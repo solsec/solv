@@ -43,6 +43,7 @@ contract PiggyBank is CtfFramework{
         require(amount<=piggyBalance, "Insufficient Funds in Contract");
         withdraw(amount);
     }
+    //PiggyBank의 collectFunds 함수
 
 }
 
@@ -62,6 +63,15 @@ contract CharliesPiggyBank is PiggyBank{
         withdrawlCount = withdrawlCount.add(1);
         withdraw(amount);
     }
+    // PiggyBank에서 Derive된 CharliesPiggyBank의 collectFunds는 기존 PiggyBank의 collectFunds를 Override하였다. 따라서 function의 동작이 변경됨
 
 }
+```
+
+## 풀이방법
+
+```
+ MyetherWallet에서 MetaMask를 연동한 후, 위 문제의 SmartContract 주소와 ABI를 입력한 후,
+ collectFunds 함수를 호출하면 문제가 풀리게 된다.
+ Override로 인해 원래 함수가 덮어써지게 되어 Owner가 아니라고 해당 함수를 호출할 수 있게 되었다.
 ```
