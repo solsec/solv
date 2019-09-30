@@ -1,13 +1,13 @@
 ### Security Innovation Blockchain CTF
 ##### 1. Donation 
 ###### 2. Lock Box ->seungil
-##### 3. Piggy Bank
-##### 4. SI Token Sale
-###### 5. Secure Bank
+##### 3. Piggy Bank -> dawoon
+##### 4. SI Token Sale -> dawoon
+###### 5. Secure Bank -> beomjoon
 ##### 6. Lottery ->seungil
 ##### 7. Trust Fund -> seungil
 ##### 8. Heads or Tails
-##### 9. Record Label
+##### 9. Record Label -> beomjoon
 ###### 10. Slot Machine
 ###### 11. Rainy Day Fund
 ###### 12. Raffle
