@@ -9,11 +9,15 @@
 ##### 8. Heads or Tails
 ##### 9. Record Label -> beomjoon
 ###### 10. Slot Machine
+
 ###### 11. Rainy Day Fund
+
 ###### 12. Raffle
+
 ###### 13. Scratchcard
 
-
 # 제목
+
 ## 중제목
+
 ### 소제목
