@@ -137,6 +137,6 @@ contract SimpleBank is CtfFramework{
 
 4) widthdarw 를 호출하여 0.4 ETH 탈취 (username이 등록되어 있으므로 require를 만족하여 아무나 빼갈 수 있음)
 
-<img src="img/5_secure_bank_01.JPG" width="600px" height="200px">
+<img src="img/5_secure_bank_01.JPG">
 
 
