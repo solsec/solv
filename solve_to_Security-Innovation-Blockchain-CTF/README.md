@@ -1,14 +1,14 @@
 ### Security Innovation Blockchain CTF
 
-##### 1. Donation
+##### 1. Donation 
 
-###### 2. Lock Box ->seungil
+##### 2. Lock Box ->seungil
 
 ##### 3. Piggy Bank -> dawoon
 
 ##### 4. SI Token Sale -> dawoon
 
-###### 5. Secure Bank -> beomjoon
+##### 5. Secure Bank -> beomjoon
 
 ##### 6. Lottery ->seungil
 
@@ -25,9 +25,3 @@
 ###### 12. Raffle
 
 ###### 13. Scratchcard
-
-# 제목
-
-## 중제목
-
-### 소제목
